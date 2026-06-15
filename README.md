@@ -1,4 +1,5 @@
 #greenden-tailwind
+```
 Greenden – Plant Store Website
 
 Greenden is a responsive plant store website built using HTML and Tailwind CSS. The project showcases a modern and clean user interface for an online plant shop, allowing users to explore products and learn more about the store.
@@ -16,7 +17,6 @@ Clean and modern UI
 Technologies Used
 HTML5
 Tailwind CSS
-
 Pages
 Home – Introduction to Greenden, featured products, and services.
 Products – Displays available plants and products.
@@ -30,3 +30,4 @@ Responsive web design
 Flexbox layouts
 Component-based page structure
 Multi-page website development
+```
